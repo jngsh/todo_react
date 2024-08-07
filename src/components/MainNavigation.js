@@ -18,7 +18,7 @@ export default function MainNavigation(){
                       <ul className="navbar-nav">
 
                           <li className="nav-item">
-                              <Link className="nav-link" to="/">홈페이지</Link>
+                              <Link className="nav-link" to="/">HomePage</Link>
                           </li>
                           { token && <li className="nav-item">
                                        <Link className="nav-link" to="/todos">Todos</Link>                                                                      
