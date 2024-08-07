@@ -1,0 +1,9 @@
+.PersonList{
+    background-color: rgb(119, 238, 214);
+    width: 400px;
+    height: 300px;
+}   
+
+table, th, td {
+    border: 1px solid black;
+}
